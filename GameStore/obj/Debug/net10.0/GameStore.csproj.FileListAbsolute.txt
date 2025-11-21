@@ -27,3 +27,9 @@ C:\Users\Acer\OneDrive\Pulpit\webAppBackend\webAppBackend\GameStore\obj\Debug\ne
 C:\Users\Acer\OneDrive\Pulpit\webAppBackend\webAppBackend\GameStore\obj\Debug\net10.0\GameStore.genruntimeconfig.cache
 C:\Users\Acer\OneDrive\Pulpit\webAppBackend\webAppBackend\GameStore\obj\Debug\net10.0\ref\GameStore.dll
 C:\Users\Acer\OneDrive\Pulpit\webAppBackend\webAppBackend\GameStore\obj\Debug\net10.0\GameStore.sourcelink.json
+C:\Users\Acer\OneDrive\Pulpit\webAppBackend\webAppBackend\gamestore\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Acer\OneDrive\Pulpit\webAppBackend\webAppBackend\gamestore\bin\Debug\net10.0\MinimalApis.Extensions.dll
+C:\Users\Acer\OneDrive\Pulpit\webAppBackend\webAppBackend\gamestore\bin\Debug\net10.0\MiniValidation.dll
+C:\Users\Acer\OneDrive\Pulpit\webAppBackend\webAppBackend\gamestore\obj\Debug\net10.0\GameStore.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Pulpit\webAppBackend\webAppBackend\gamestore\obj\Debug\net10.0\GameStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Acer\OneDrive\Pulpit\webAppBackend\webAppBackend\gamestore\obj\Debug\net10.0\GameStore.csproj.Up2Date
