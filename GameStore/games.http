@@ -1,1 +1,29 @@
-GET http://localhost:5095
+GET http://localhost:5095/games
+
+###
+GET http://localhost:5095/games/4
+
+###
+POST http://localhost:5095/games
+Content-Type: application/json
+
+{
+    "name": "Dead By Daylight",
+    "genre": "Horror",
+    "price": 33.99,
+    "releaseDate": "2011-11-18"
+}
+
+###
+PUT http://localhost:5095/games/4
+Content-Type: application/json
+
+{
+  "name": "Dead By Daylight 2",
+  "genre": "Horror",
+  "price": 37.99,
+  "releaseDate": "2025-11-18"
+}
+
+###
+DELETE http://localhost:5095/games/3

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Acer\\OneDrive\\Pulpit\\webAppBackend\\webAppBackend\\GameStore\\GameStore.csproj": {}
+    "C:\\Users\\Acer\\OneDrive\\Pulpit\\webAppBackend\\webAppBackend\\gamestore\\GameStore.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Acer\\OneDrive\\Pulpit\\webAppBackend\\webAppBackend\\GameStore\\GameStore.csproj": {
+    "C:\\Users\\Acer\\OneDrive\\Pulpit\\webAppBackend\\webAppBackend\\gamestore\\GameStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Acer\\OneDrive\\Pulpit\\webAppBackend\\webAppBackend\\GameStore\\GameStore.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\OneDrive\\Pulpit\\webAppBackend\\webAppBackend\\gamestore\\GameStore.csproj",
         "projectName": "GameStore",
-        "projectPath": "c:\\Users\\Acer\\OneDrive\\Pulpit\\webAppBackend\\webAppBackend\\GameStore\\GameStore.csproj",
+        "projectPath": "C:\\Users\\Acer\\OneDrive\\Pulpit\\webAppBackend\\webAppBackend\\gamestore\\GameStore.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Acer\\OneDrive\\Pulpit\\webAppBackend\\webAppBackend\\GameStore\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\OneDrive\\Pulpit\\webAppBackend\\webAppBackend\\gamestore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
